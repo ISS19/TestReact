@@ -1,0 +1,13 @@
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.littleText{
+    color: white;
+}
+.border{
+    border: solid;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 40%;
+}
